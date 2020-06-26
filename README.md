@@ -61,7 +61,7 @@
 ## 六、非監督式機器學習
 * Day054 clustering 1 非監督式機器學習簡介
 * Day055 clustering 2 聚類算法
-* Day056 K-mean 觀察 : 使用輪廓分析
+* Day056 K-means 觀察 : 使用輪廓分析
 * Day057 clustering 3 階層分群算法
 * Day058 階層分群法 觀察 : 使用 2D 樣版資料集
 * Day059 dimension reduction 1 降維方法-主成份分析
